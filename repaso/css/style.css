@@ -1,0 +1,81 @@
+body{
+    background-color: #eceeef;
+}
+
+.jumbotron{
+    background-color:white;
+}
+
+.navbar{
+    background-color: white;
+}
+
+.btn{
+    background-color: #FCC214;
+    color: #FCC214;
+    border-color:#FCC214;
+    border-radius: 100%;
+}
+
+#carousel-header .carousel-indicators li.active {
+    opacity: 0.3;
+}
+
+#carousel-header .carousel-indicators li, #carousel-header .carousel-indicators li.active {
+    background-color: #000;
+    opacity: 0.5;
+    border-color: #000;
+}
+
+.carousel-indicators .active {
+    max-width: 13px;
+    height: 10px;
+    margin: 7px;
+    background-color: #ec971f;
+}
+
+.circulo li {
+    position: relative;
+    display: inline-block;
+    height: 10px;
+    margin: 7px;
+    max-width: 13px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: rgba(0,0,0,0);
+    border: 1px solid #adadad;
+    border-radius: 100%;
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+
+.typcn{
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 30px;
+    line-height: 18px;
+    color: #adadad;
+}
+
+
+.cell button{
+    color: white;
+}
+
+.services jumbotron jumbotron-fluid{
+    background-color: #d0d5d8;
+}
+
+
+.pictures{
+    background-color: white;
+}
+
+.dropdown button{
+    background-color: white;
+    height: 45px;
+    width: 171px;
+    border-radius: 0%;
+    color: black;
+    border-color: black;
+}
